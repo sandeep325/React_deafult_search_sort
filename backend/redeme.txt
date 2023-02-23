@@ -1,0 +1,8 @@
+1) to run cmd for install all pakages ->  npm i
+2) run server of node -> npm run dev
+3) database for this project-> mongodb
+4) using mongoose ORM
+5) .env file for (PORT,DB)
+6)all api url in test.postman_collection.json file (import in on postman)
+
+
